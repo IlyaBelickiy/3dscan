@@ -1,0 +1,12 @@
+{
+  "name": "3dscan-website",
+  "version": "1.0.0",
+  "description": "3D Scan — Независимый диагностический центр Астана",
+  "scripts": {
+    "dev": "npx serve . --cors -p 3000",
+    "start": "npx serve . --cors -p 3000"
+  },
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
